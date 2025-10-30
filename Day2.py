@@ -96,19 +96,4 @@ print(btd2)
 sum = btd1+btd2
 print(sum)
 
-digit = []
-s=""
-while sum >0:
-  digit.append(sum%2)
-  s+=str(sum%2)
-  sum = sum//2
-print(reverse(0s)
 
-s1 = input("enter first string")
-s2 = input("enter second string")
-
-if len(s1) != len(s2):
-  print("not anagram")
-
-else:
-  while
